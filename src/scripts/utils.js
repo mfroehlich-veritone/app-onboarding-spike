@@ -20,8 +20,8 @@
 
 // GLOBALS
 const API_ENDPOINT = "https://api.stage.veritone.com/v3/graphql";
-const AUTH_BASE  = "https://api.stage.veritone.com/v1/admin/oauth/authorize?scope=all&response_type=token&client_id=";
-const CLIENT_ID = "3e8ef416-6483-4815-b76f-48aa23b75c14";
+const AUTH_BASE  = "https://api.veritone.com/v1/admin/oauth/authorize?scope=all&response_type=token&client_id=";
+const CLIENT_ID = "197811ab-7c26-4435-a993-342bab7d3548";
 const HOME_URL = "https://splendorous-shortbread-94cd62.netlify.app/";
 const TEXT_VALIDATION_ERROR_MSG = "That doesn't look right. Try again.";
 const DAYS_TO_STORE_TOKEN = 1;
